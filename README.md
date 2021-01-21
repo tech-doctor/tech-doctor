@@ -17,6 +17,6 @@ I'm OLIKA ISAAC, a self taught Javascript/ReactJS software developer
 -----------------------
 **TECHNICAL WRITER**
 
-![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=tech-doctor&show_icons=true)
+![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=tech-doctor&show_icons=true&theme=radical)
 
 
