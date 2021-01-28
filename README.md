@@ -7,7 +7,7 @@ I'm **OLUKA ISAAC**, a self taught Javascript/ReactJS software developer
 
 #### ABOUT ME: 
 
-* 🔭 I’m currently working on **[Disburse](https://sendairtime.netlify.app/)**
+* 🔭 I’m currently working on some cool projects
 * 🌱 I’m currently learning **Redux** as a Reactjs state management tool
 * 📫 How to reach me:  **hilghsilk2damson@gmail.com**
 * 😄 Pronouns: **He/Him**
