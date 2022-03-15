@@ -7,8 +7,8 @@ I'm **OLUKA ISAAC**, a self taught Javascript/ReactJS software developer
 
 #### ABOUT ME: 
 
-* 🔭 I’m currently working on some cool projects
-* 🌱 I’m currently learning **Redux** as a Reactjs state management tool
+* 🔭 Currently working on some cool projects
+* 🌱 I’m currently learning TypeScript
 * 📫 How to reach me:  **hilghsilk2damson@gmail.com**
 * 😄 Pronouns: **He/Him**
 * ⚡ Fun fact: *I don't take coffee*
