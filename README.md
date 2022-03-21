@@ -3,7 +3,7 @@
 <!--
 **tech-doctor/tech-doctor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I'm **OLUKA ISAAC**, a self taught Javascript developer
+Call me **ISAAC**, a self taught Javascript developer
 
 #### ABOUT ME: 
 
