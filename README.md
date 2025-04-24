@@ -7,12 +7,11 @@ Call me **ISAAC**, a self-taught Javascript developer
 
 #### ABOUT ME: 
 
-* Currently working on some cool projects
-* I’m currently learning TypeScript and NextJs
-* How to reach me:  **olukaisaac.dev@gmail.com**
+* Currently shipping product 🚀🚀
+* Reach me:  **olukaisaac.dev@gmail.com**
 * Pronouns: **He/Him**
 
-**FRONTEND DEVELOPER**
+**PRODUCT ENGINEER**
 <!-- -----------------------
 **TECHNICAL WRITER** -->
 
