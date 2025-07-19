@@ -12,8 +12,8 @@ Call me **ISAAC**, a self-taught Software Engineer
 * Pronouns: **He/Him**
 
 **PRODUCT ENGINEER**
-<!-- -----------------------
-**TECHNICAL WRITER** -->
+
+**[TECHNICAL WRITER](https://medium.com/@techie_doctor)** 
 
 <b>My GitHub Stats</b>
 
